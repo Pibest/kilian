@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cache
